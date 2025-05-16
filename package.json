@@ -1,0 +1,33 @@
+{
+  "name": "webtourguide",
+  "version": "1.0.0",
+  "description": "A lightweight & flexible Javascript Guide your users through your website with elegant, customizable tours and onboarding experiences powered by WebTourGuide.",
+  "main": "dist/webtourguide.min.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "website tour",
+    "product tour",
+    "guided tour",
+    "onboarding",
+    "user onboarding",
+    "step-by-step guide",
+    "walkthrough",
+    "tooltips",
+    "feature tour",
+    "interactive guide",
+    "tour library",
+    "js tour guide",
+    "web tour",
+    "javascript onboarding",
+    "highlight elements",
+    "user guide",
+    "UX guide"
+  ],
+  "author": "Unlein® Private Limited",
+  "license": "MIT"
+}
