@@ -1,13 +1,17 @@
 {
   "name": "webtourguide",
   "version": "1.0.0",
-  "description": "A lightweight & flexible Javascript Guide your users through your website with elegant, customizable tours and onboarding experiences powered by WebTourGuide.",
+  "description": "A lightweight & flexible Javascript. Guide your users through your website with elegant, customizable tours and onboarding experiences powered by WebTourGuide.",
   "main": "dist/webtourguide.min.js",
   "directories": {
     "doc": "docs"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Buntysoni/WebTourGuide.git"
   },
   "keywords": [
     "website tour",
@@ -29,5 +33,9 @@
     "UX guide"
   ],
   "author": "Unlein® Private Limited",
-  "license": "MIT"
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Buntysoni/WebTourGuide/issues"
+  },
+  "homepage": "https://github.com/Buntysoni/WebTourGuide#readme"
 }
